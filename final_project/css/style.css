@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Sulphur+Point&display=swap');
+
+body {
+  background-color: #99ccff;
+  font-family:"Poppins", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#list li{
+  display: inline-block;
+  margin: 30px;
+  text-align: center;
+}
